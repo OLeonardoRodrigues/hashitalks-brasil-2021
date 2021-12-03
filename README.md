@@ -1,9 +1,11 @@
 <!-- BEGIN_TF_DOCS -->
 ![HashiTalks 2021 Speaker Card](/images/speaker\_card.png "HashiTalks 2021 Speaker Card")
 
-# HashiTalks Brasil 2021
+# HashiTalks Brasil 2021 - Terraform Avançado: Usando Objetos
 
-## [Terraform Avançado: Usando Objetos](https://www.youtube.com/watch?v=jQszqzCEhFk&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=19)
+## [Apresentação](https://www.youtube.com/watch?v=jQszqzCEhFk&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=19)
+
+## [Slides](https://docs.google.com/presentation/d/1fK_fJb5fe49kckoVqr_CS6uWMS51blH_Jq_5k2exScQ/edit?usp=sharing)
 
 <br/>
 
